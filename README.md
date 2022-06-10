@@ -1,1 +1,1 @@
-# Arrays
+# Arrays assignment for Kodecamp
